@@ -24,6 +24,6 @@ https://github.com/RajaniCode/H/blob/main/Reference/Badges/virtualbox.org.svg?ra
 [![image](
 https://github.com/RajaniCode/H/blob/main/Reference/Badges/centos.org.svg?raw=true)](https://centos.org)    
 [![image](
-https://github.com/RajaniCode/H/blob/main/Reference/Badges/cloudera.com.svg?raw=true)](https://cloudera.com)    
-[![image](
 https://github.com/RajaniCode/H/blob/main/Reference/Badges/virtualbox.org.svg?raw=true)](https://virtualbox.org)    
+[![image](
+https://github.com/RajaniCode/H/blob/main/Reference/Badges/cloudera.com.svg?raw=true)](https://cloudera.com)    
