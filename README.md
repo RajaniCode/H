@@ -20,8 +20,6 @@ https://github.com/RajaniCode/H/blob/main/Reference/Badges/scala-lang.org.svg?ra
 [![image](
 https://github.com/RajaniCode/H/blob/main/Reference/Badges/scala-sbt.org.svg?raw=true)](https://scala-sbt.org)    
 [![image](
-https://github.com/RajaniCode/H/blob/main/Reference/Badges/virtualbox.org.svg?raw=true)](https://virtualbox.org)    
-[![image](
 https://github.com/RajaniCode/H/blob/main/Reference/Badges/centos.org.svg?raw=true)](https://centos.org)    
 [![image](
 https://github.com/RajaniCode/H/blob/main/Reference/Badges/virtualbox.org.svg?raw=true)](https://virtualbox.org)    
