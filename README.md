@@ -1,7 +1,7 @@
 Hadoop
 ------
 - Apache Hadoop   
-![image](https://github.com/RajaniCode/H/blob/main/Reference/Logos/Hadoop1.svg?raw=true)
+![image](https://github.com/RajaniCode/H/blob/main/Reference/Logos/Hadoop.svg?raw=true)
 
 Credits
 -------
