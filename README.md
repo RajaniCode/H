@@ -16,9 +16,9 @@ https://github.com/RajaniCode/H/blob/main/Reference/Badges/openjdk.org.svg?raw=t
 [![image](
 https://github.com/RajaniCode/H/blob/main/Reference/Badges/java.com.svg?raw=true)](https://java.com)    
 [![image](
-https://github.com/RajaniCode/H/blob/main/Reference/Badges/scala-lang1.org.svg?raw=true)](https://scala-lang.org)    
+https://github.com/RajaniCode/H/blob/main/Reference/Badges/scala-lang.org.svg?raw=true)](https://scala-lang.org)    
 [![image](
-https://github.com/RajaniCode/H/blob/main/Reference/Badges/scala-sbt1.org.svg?raw=true)](https://scala-sbt.org)    
+https://github.com/RajaniCode/H/blob/main/Reference/Badges/scala-sbt.org.svg?raw=true)](https://scala-sbt.org)    
 [![image](
 https://github.com/RajaniCode/H/blob/main/Reference/Badges/virtualbox.org.svg?raw=true)](https://virtualbox.org)    
 [![image](
