@@ -24,4 +24,4 @@ Credits/centos.org.svg?raw=true)](https://centos.org/)
 [![image](
 Credits/virtualbox.org.svg?raw=true)](https://virtualbox.org/)    
 [![image](
-Credits/cloudera.com.svg?raw=true)](https://cloudera.com/)    
+Credits/cloudera.com.svg?raw=true)](https://cloudera.com/)
