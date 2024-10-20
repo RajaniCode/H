@@ -44,7 +44,7 @@ Credits/lucene.apache.org.svg?raw=true)](https://lucene.apache.org/)
 [![image](
 Credits/madlib.apache.org.svg?raw=true)](https://madlib.apache.org/)    
 [![image](
-Credits/mahout.apache.org.svg?raw=true)](https://mahout.apache.org.svg/)    
+Credits/mahout.apache.org.svg?raw=true)](https://mahout.apache.org/)    
 [![image](
 Credits/mesos.apache.org.svg?raw=true)](https://mesos.apache.org/)  
 [![image](
