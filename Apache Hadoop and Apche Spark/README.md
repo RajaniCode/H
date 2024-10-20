@@ -46,4 +46,4 @@ Credits/madlib.apache.org.svg?raw=true)](https://madlib.apache.org/)
 [![image](
 Credits/mahout.apache.org.svg?raw=true)](https://mahout.apache.org.svg/)    
 [![image](
-Credits/mesos.apache.org.svg?raw=true)](https://mesos.apache.org.svg/)  
+Credits/mesos.apache.org.svg?raw=true)](https://mesos.apache.org/)  
