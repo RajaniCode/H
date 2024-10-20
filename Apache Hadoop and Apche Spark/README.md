@@ -12,6 +12,8 @@ Credits/apache.org.svg?raw=true)](https://apache.org/)
 [![image](
 Credits/hadoop.apache.org.svg?raw=true)](https://hadoop.apache.org/)  
 [![image](
+Credits/spark.apache.org.svg?raw=true)](https://spark.apache.org/)  
+[![image](
 Credits/airflow.apache.org.svg?raw=true)](https://airflow.apache.org/)  
 [![image](
 Credits/ambari.apache.org.svg?raw=true)](https://ambari.apache.org.svg/)  
