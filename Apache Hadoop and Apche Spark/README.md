@@ -66,7 +66,7 @@ Credits/storm.apache.org.svg?raw=true)](https://storm.apache.org/)
 [![image](
 Credits/tez.apache.org.svg?raw=true)](https://tez.apache.org/)  
 [![image](
-Credits/thrift.apache.org.svg?raw=true)](https:/thrift.apache.org/)    
+Credits/thrift.apache.org.svg?raw=true)](https://thrift.apache.org/)    
 [![image](
 Credits/tinkerpop.apache.org.svg?raw=true)](https://tinkerpop.apache.org./)    
 [![image](
