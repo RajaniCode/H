@@ -18,7 +18,7 @@ Credits/airflow.apache.org.svg?raw=true)](https://airflow.apache.org/)
 [![image](
 Credits/ambari.apache.org.svg?raw=true)](https://ambari.apache.org/)  
 [![image](
-Credits/Apache-Hadoop-YARN.svg?raw=true)](https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html/)  
+Credits/Apache-Hadoop-YARN.svg?raw=true)](https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html)  
 [![image](
 Credits/arrow.apache.org.svg?raw=true)](https://arrow.apache.org/)    
 [![image](
