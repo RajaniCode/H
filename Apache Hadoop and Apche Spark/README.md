@@ -16,8 +16,6 @@ Credits/spark.apache.org.svg?raw=true)](https://spark.apache.org/)
 [![image](
 Credits/alluxio.io.svg?raw=true)](https://alluxio.io/)  
 [![image](
-Credits/Apache-Hadoop-YARN.svg?raw=true)](https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html)  
-[![image](
 Credits/mesos.apache.org.svg?raw=true)](https://mesos.apache.org/)  
 [![image](
 Credits/ignite.apache.org.svg?raw=true)](https://ignite.apache.org/)  
