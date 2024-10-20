@@ -36,7 +36,7 @@ Credits/ignite.apache.org.svg?raw=true)](https://ignite.apache.org/)
 [![image](
 Credits/impala.apache.org.svg?raw=true)](https://impala.apache.org/)  
 [![image](
-Credits/kafka.apache.org.svg?raw=true)](https://kafka.apache.org.svg/)  
+Credits/kafka.apache.org.svg?raw=true)](https://kafka.apache.org/)  
 [![image](
 Credits/knox.apache.org.svg?raw=true)](https://knox.apache.org/)    
 [![image](
