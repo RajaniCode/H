@@ -34,7 +34,7 @@ Credits/flume.apache.org.svg?raw=true)](https://flume.apache.org/)
 [![image](
 Credits/ignite.apache.org.svg?raw=true)](https://ignite.apache.org/)  
 [![image](
-Credits/impala.apache.org.svg?raw=true)](https://impala.apache.org.svg/)  
+Credits/impala.apache.org.svg?raw=true)](https://impala.apache.org/)  
 [![image](
 Credits/kafka.apache.org.svg?raw=true)](https://kafka.apache.org.svg/)  
 [![image](
