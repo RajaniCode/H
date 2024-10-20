@@ -48,7 +48,7 @@ Credits/mahout.apache.org.svg?raw=true)](https://mahout.apache.org/)
 [![image](
 Credits/mesos.apache.org.svg?raw=true)](https://mesos.apache.org/)  
 [![image](
-Credits/nifi.apache.org.svg?raw=true)](https://flume.nifi.apache.org/)  
+Credits/nifi.apache.org.svg?raw=true)](https://nifi.apache.org/)  
 [![image](
 Credits/oozie.apache.org.svg?raw=true)](https://oozie.apache.org/)  
 [![image](
