@@ -48,7 +48,7 @@ Credits/mahout.apache.org.svg?raw=true)](https://mahout.apache.org/)
 [![image](
 Credits/madlib.apache.org.svg?raw=true)](https://madlib.apache.org/)    
 [![image](
-Credits/pig.apache.org1.svg?raw=true)](https://pig.apache.org/)    
+Credits/pig.apache.org.svg?raw=true)](https://pig.apache.org/)    
 [![image](
 Credits/atlas.apache.org.svg?raw=true)](https://atlas.apache.org/)    
 [![image](
