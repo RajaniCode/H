@@ -38,8 +38,6 @@ Credits/solr.apache.org.svg)](https://solr.apache.org/)
 [![image](
 Credits/lucene.apache.org.svg)](https://lucene.apache.org/)    
 [![image](
-Credits/flume.apache.org.svg)](https://flume.apache.org/)  
-[![image](
 Credits/nifi.apache.org.svg)](https://nifi.apache.org/)  
 [![image](
 Credits/mahout.apache.org.svg)](https://mahout.apache.org/)    
